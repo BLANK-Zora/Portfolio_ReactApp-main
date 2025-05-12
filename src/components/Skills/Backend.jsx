@@ -24,7 +24,50 @@ const Backend = () => {
                     <div className="skills__data">
                         <i class='bx bx-badge-check'></i>
                         <div>
+                            <h3 className="skills__name">PyTorch</h3>
+                        </div>
+                    </div>
+
+                    <div className="skills__data">
+                        <i class='bx bx-badge-check'></i>
+                        <div>
+                            <h3 className="skills__name">OpenCV</h3>
+                        </div>
+                    </div>
+
+                    <div className="skills__data">
+                        <i class='bx bx-badge-check'></i>
+                        <div>
+                            <h3 className="skills__name">Yolov8</h3>
+                        </div>
+                    </div>
+
+                    <div className="skills__data">
+                        <i class='bx bx-badge-check'></i>
+                        <div>
+                            <h3 className="skills__name">MongoDB</h3>
+                        </div>
+                    </div>
+                    
+
+                    <div className="skills__data">
+                        <i class='bx bx-badge-check'></i>
+                        <div>
                             <h3 className="skills__name">MySQL</h3>
+                        </div>
+                    </div>
+
+                    <div className="skills__data">
+                        <i class='bx bx-badge-check'></i>
+                        <div>
+                            <h3 className="skills__name">NodeJs</h3>
+                        </div>
+                    </div>
+
+                    <div className="skills__data">
+                        <i class='bx bx-badge-check'></i>
+                        <div>
+                            <h3 className="skills__name">NextJs</h3>
                         </div>
                     </div>
                 </div>
