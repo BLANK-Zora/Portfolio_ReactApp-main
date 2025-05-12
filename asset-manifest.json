@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio_ReactApp-main/static/css/main.c4d73616.css",
-    "main.js": "/Portfolio_ReactApp-main/static/js/main.c7836d44.js",
+    "main.css": "/Portfolio_ReactApp-main/static/css/main.aad47c2c.css",
+    "main.js": "/Portfolio_ReactApp-main/static/js/main.843ea8f0.js",
     "static/js/453.ed3810f9.chunk.js": "/Portfolio_ReactApp-main/static/js/453.ed3810f9.chunk.js",
     "static/media/profile.png": "/Portfolio_ReactApp-main/static/media/profile.f53deed58d414b3b7f99.png",
-    "static/media/Param_CV.pdf": "/Portfolio_ReactApp-main/static/media/Param_CV.e83747cf513e0b21a7f1.pdf",
+    "static/media/Param_Saxena_Resume.pdf": "/Portfolio_ReactApp-main/static/media/Param_Saxena_Resume.b8ecd0ceae2956294a4c.pdf",
     "index.html": "/Portfolio_ReactApp-main/index.html",
-    "main.c4d73616.css.map": "/Portfolio_ReactApp-main/static/css/main.c4d73616.css.map",
-    "main.c7836d44.js.map": "/Portfolio_ReactApp-main/static/js/main.c7836d44.js.map",
+    "main.aad47c2c.css.map": "/Portfolio_ReactApp-main/static/css/main.aad47c2c.css.map",
+    "main.843ea8f0.js.map": "/Portfolio_ReactApp-main/static/js/main.843ea8f0.js.map",
     "453.ed3810f9.chunk.js.map": "/Portfolio_ReactApp-main/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4d73616.css",
-    "static/js/main.c7836d44.js"
+    "static/css/main.aad47c2c.css",
+    "static/js/main.843ea8f0.js"
   ]
 }
