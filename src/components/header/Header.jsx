@@ -15,7 +15,6 @@ function Header() {
   return (
     <header className='header'>
       <nav className='nav container'>
-        {/* <a href='index.html' className='nav__logo'>Param</a> */}
 
         <div className={Toggle ? "nav__menu show_menu" : "nav__menu"}>
           <ul className="nav__list grid">
